@@ -3,5 +3,9 @@ Namn: Carl Eriksson CarlErikssonSkogh
 Epost: carl.eriksson-skogh.9436@student.uu.se
 
 Användarnamn på GitHub: AxelTimes
-Namn: Axel Tidström
-Epost: Axel.TIdstrom.9448@student.uu.se
+Namn: Axel tidström
+Epost: axel.tidstrom.9448@student.uu.se
+
+Användarnamn på github: karlavagnen45
+Namn: Tobias Hagljung
+Epost: tobias.hagljung.5776@student.uu.se
